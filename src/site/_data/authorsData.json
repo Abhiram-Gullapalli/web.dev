@@ -1018,10 +1018,10 @@
     "github": "maranag",
     "image": "image/admin/ChOBe0OzPT7siDgFmjC9.jpg"
   },
-  "charistheodoulou": {
-    "twitter": "charistheo_dev",
+  "harrytheodoulou": {
+    "twitter": "harryTheo_",
     "country": "UK",
-    "homepage": "https://www.charistheo.io/",
+    "homepage": "https://www.harrytheo.com/",
     "image": "image/8WbTDNrhLsU0El80frMBGE4eMCD3/RDHNBibB1P7yeOIrw0JX.jpg"
   },
   "natashakosoglov": {
@@ -1627,6 +1627,10 @@
     "twitter": "steveworkman",
     "image": "image/kheDArv5csY6rvQUJDbWRscckLr1/ZQJOeFPFZCQrWmWfFGeH.jpeg"
   },
+  "simonleparc": {
+    "twitter": "sleparc",
+    "image": "image/jL3OLOhcWUQDnR4XjewLBx4e3PC3/u9LOvMuiDIAoW5aKZgsQ.jpg"
+  },
   "dbaron": {
     "country": "US",
     "twitter": "davidbaron",
@@ -1641,5 +1645,10 @@
     "github": "bramus",
     "country": "BE",
     "image": "image/AeNB0cHNDkYPUYzDuv8gInYA9rY2/CQMqvg5UkY4weDnJij3b.jpeg"
+  },
+  "crivero": {
+    "country": "US",
+    "twitter": "carolrivero_",
+    "image": "image/HodOHWjMnbNw56hvNASHWSgZyAf2/ECocrmuvoYCEILXxTf1a.jpeg"
   }
 }
